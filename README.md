@@ -12,7 +12,6 @@ For project 3, your goal is two-fold:
 ### About the PushShift API
 PushShift collects Reddit data, stores it, and makes it available through an API.  This allows anyone to access current and historical posts, comments, etc.  
 
-Pushshift's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`](https://www.reddit.com/r/boardgames), all I have to do is use the following url: https://api.pushshift.io/reddit/search/submission?subreddit=boardgames
 
 To help you get started, we have a primer video on how to use the API: https://youtu.be/AcrjEWsMi_E
 
